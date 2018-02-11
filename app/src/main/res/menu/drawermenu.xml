@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/Tprofil" android:title="PROFIL" />
+    <item android:id="@+id/infperso" android:title="Informations personnelles" android:icon="@drawable/ic_action_perso"/>
+    <item android:id="@+id/vehicule" android:title="Véhicule" android:icon="@drawable/ic_action_car"/>
+    <item android:id="@+id/profil" android:title="Voir profil public" android:icon="@drawable/ic_action_public"/>
+    <item android:id="@+id/Tavis" android:title="AVIS"/>
+    <item android:id="@+id/avisrec" android:title="Avis reçcus" android:icon="@drawable/ic_action_avis"/>
+    <item android:id="@+id/Ttrajet" android:title="TRAJETS"/>
+    <item android:id="@+id/avenir" android:title="Mes trajets à venir" android:icon="@drawable/ic_action_trajet"/>
+    <item android:id="@+id/res" android:title="Mes reservation"/>
+
+</menu>
